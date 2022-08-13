@@ -28,7 +28,11 @@ div{
     color: yellow;
 }
 
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 <video width="320" height="240" autoplay muted>
 <source src="warning-not-available.gif" type="video/mp4">
